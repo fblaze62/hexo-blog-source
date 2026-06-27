@@ -1,6 +1,6 @@
 ## [FeatherBlaze's Blog](https://github.com/fblaze62/blog) Source Code
 
-[Preview](https://blog.fblaze62.top/?_blank)
+<a href="https://blog.fblaze62.top/" target="_blank">Preview</a>
 
 1. Clone the project
 
@@ -28,4 +28,4 @@ npx hexo deploy
 
 5. Configuration
 
-   Refer to the [Hexo documentation](https://hexo.io/docs/?_blank) and [Volantis theme documentation](https://volantis.js.org/v5/getting-started/?_blank).
+   Refer to the <a href="https://hexo.io/docs/" target="_blank">Hexo documentation</a> and <a href="https://volantis.js.org/v7/getting-started/" target="_blank">Volantis theme documentation</a>.
