@@ -1,3 +1,5 @@
+>***本项目不再更新，因为博客转移到了Astro***
+
 ## [FeatherBlaze's Blog](https://github.com/fblaze62/blog) Source Code
 
 [Preview](https://blog.fblaze62.top/?_blank)
