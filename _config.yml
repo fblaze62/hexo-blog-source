@@ -102,7 +102,7 @@ theme: volantis
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/fblaze62/blog.git
+  repo: https://github.com/fblaze62/hexo-blog.git
   branch: main
 
-favicon: https://gcore.jsdelivr.net/gh/fblaze62/blog@main/images/favicon.ico
+favicon: https://gcore.jsdelivr.net/gh/fblaze62/hexo-blog@main/images/favicon.ico

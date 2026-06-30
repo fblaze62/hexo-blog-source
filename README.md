@@ -1,13 +1,13 @@
 >***本项目不再更新，因为博客转移到了Astro***
 
-## [FeatherBlaze's Blog](https://github.com/fblaze62/blog) Source Code
+## [[OLD]FeatherBlaze's Hexo Blog](https://github.com/fblaze62/hexo-blog) Source Code
 
 [Preview](https://blog.fblaze62.top/?_blank)
 
 1. Clone the project
 
 ```bash
-git clone https://github.com/fblaze62/blog-source.git
+git clone https://github.com/fblaze62/hexo-blog-source.git
 ```
 
 2. Install dependencies

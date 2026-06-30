@@ -91,7 +91,7 @@ article:
       # 默认文章作者（可在 _data/author.yaml 中增加其他作者，并在 front-matter 中设置）
       # https://volantis.js.org/advanced-settings/#多人协同
       author:
-        avatar: https://gcore.jsdelivr.net/gh/fblaze62/blog@main/images/avatar.png
+        avatar: https://gcore.jsdelivr.net/gh/fblaze62/hexo-blog@main/images/avatar.png
         name: FeatherBlaze
         url: about/
       # 文章创建日期
@@ -189,7 +189,7 @@ sidebar:
         title: 公告
         url: /announcement/
       content:
-        - '网站新增了<a href="/messages/">留言板</a>，欢迎留言！'
+        - '<b><em>本站已弃用，请前往<a href="https://blog.fblaze62.top/">新站点</a></em></b>。'
     # ---------------------------------------
     # Navigation widget
     navigation:
@@ -223,7 +223,7 @@ sidebar:
     blogger:
       class: blogger
       display: [desktop, mobile] # [desktop, mobile]
-      avatar: https://gcore.jsdelivr.net/gh/fblaze62/blog@main/images/avatar_with_blank.png
+      avatar: https://gcore.jsdelivr.net/gh/fblaze62/hexo-blog@main/images/avatar_with_blank.png
       shape: rectangle # circle, rectangle
       url: /about/
       title: FeatherBlaze
@@ -240,15 +240,15 @@ sidebar:
           url: https://space.bilibili.com/3493078679686026
         - icon: fa-brands fa-tiktok
           url: https://www.douyin.com/user/MS4wLjABAAAAl5uvfzN213pYEYwH3z0Fg1EW0SXk8-oGHe11MUPSpK_bCYcZoevLky97wDl-siDR
-        - icon: https://gcore.jsdelivr.net/gh/fblaze62/blog@main/images/xhs.png
+        - icon: https://gcore.jsdelivr.net/gh/fblaze62/hexo-blog@main/images/xhs.png
           url: https://xhslink.com/m/A2gTxR1Rk4g
-        - icon: https://gcore.jsdelivr.net/gh/fblaze62/blog@main/images/luogu.png
+        - icon: https://gcore.jsdelivr.net/gh/fblaze62/hexo-blog@main/images/luogu.png
           url: https://www.luogu.com.cn/user/1656141
-        - icon: https://gcore.jsdelivr.net/gh/fblaze62/blog@main/images/ld.png
+        - icon: https://gcore.jsdelivr.net/gh/fblaze62/hexo-blog@main/images/ld.png
           url: https://ld246.com/member/FeatherBlaze/points
-        - icon: https://gcore.jsdelivr.net/gh/fblaze62/blog@main/images/littleskin.png
+        - icon: https://gcore.jsdelivr.net/gh/fblaze62/hexo-blog@main/images/littleskin.png
           url: https://littleskin.cn/skinlib?filter=skin&uploader=3503129
-        - icon: https://gcore.jsdelivr.net/gh/fblaze62/blog@main/images/fblaze-docs.png
+        - icon: https://gcore.jsdelivr.net/gh/fblaze62/hexo-blog@main/images/fblaze-docs.png
           url: https://docs.fblaze62.top/
     # ---------------------------------------
     # toc widget (valid only in articles)
