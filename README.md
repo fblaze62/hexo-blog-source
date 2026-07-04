@@ -4,35 +4,40 @@
 
 [Preview](https://hexo.fblaze62.top/)
 
-1. Clone the repositorie
+1. Clone the repository
 
-```bash
-git clone https://github.com/fblaze62/hexo-blog-source.git
-```
+   ```bash
+   git clone https://github.com/fblaze62/hexo-blog-source.git
+   ```
 
 2. Install dependencies
 
-```bash
-npm install
-```
+   ```bash
+   npm install
+   ```
 
 3. Build for production
 
-```bash
-npx hexo clean
-npx hexo generate
-npx hexo deploy
-```
+   ```bash
+   npx hexo clean
+   npx hexo generate
+   ```
 
-4. Build for production
+4. Start the development server
 
-```bash
-npx hexo server
-```
+   ```bash
+   npx hexo server
+   ```
 
 5. Deploy
 
-   Using GitHub Pages or Cloudflare Pages.
-6. Configuration
+   Modify the repo and branch fields in the deploy section of _config.yml.
+
+   ```bash
+   npx hexo deploy
+   ```
+
+   Deploy using *GitHub Pages* or *Cloudflare Workers / Pages*.
+7. Configuration
 
    Refer to the [Hexo documentation](https://hexo.io/docs/) and [Volantis theme documentation](https://volantis.js.org/v7/getting-started/).
