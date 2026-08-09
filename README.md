@@ -1,4 +1,4 @@
->***This project is no longer being updated because the blog has been migrated to Astro.***
+> **_This project is no longer being updated because the blog has been migrated to Astro._**
 
 ## [[OLD]FeatherBlaze's Hexo Blog](https://github.com/fblaze62/hexo-blog) Source Code
 
@@ -9,31 +9,36 @@
    ```bash
    git clone https://github.com/fblaze62/hexo-blog-source.git
    ```
+
 2. Install dependencies
 
    ```bash
    npm install
    ```
+
 3. Build for production
 
    ```bash
    npx hexo clean
    npx hexo generate
    ```
+
 4. Start the development server
 
    ```bash
    npx hexo server
    ```
+
 5. Deploy
 
-   Modify the repo and branch fields in the deploy section of _config.yml.
+   Modify the repo and branch fields in the deploy section of \_config.yml.
 
    ```bash
    npx hexo deploy
    ```
 
-   Deploy using *GitHub Pages* or *Cloudflare Workers / Pages*.
-7. Configuration
+   Deploy using _GitHub Pages_ or _Cloudflare Workers / Pages_.
+
+6. Configuration
 
    Refer to the [Hexo documentation](https://hexo.io/docs/) and [Volantis theme documentation](https://volantis.js.org/v7/getting-started/).
