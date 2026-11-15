@@ -1,6 +1,7 @@
-> **_This project is no longer being updated because the blog has been migrated to Astro._**
+>[!CAUTION]
+> ***This repository is no longer updated. New blog at [fblaze62/blog](https://github.com/fblaze62/blog) repository.***
 
-## [[OLD]FeatherBlaze's Hexo Blog](https://github.com/fblaze62/hexo-blog) Source Code
+## [[OLD] *FeatherBlaze's Hexo Blog*](https://github.com/fblaze62/hexo-blog) Source Code
 
 [Preview](https://hexo.fblaze62.top/)
 
@@ -29,7 +30,12 @@
    npx hexo server
    ```
 
-5. Deploy
+
+5. Configuration
+
+   Refer to [Hexo documentation](https://hexo.io/docs/) and [Volantis theme documentation](https://volantis.js.org/v6/getting-started/).
+
+6. Deploy
 
    Modify the repo and branch fields in the deploy section of \_config.yml.
 
@@ -37,8 +43,4 @@
    npx hexo deploy
    ```
 
-   Deploy using _GitHub Pages_ or _Cloudflare Workers / Pages_.
-
-6. Configuration
-
-   Refer to the [Hexo documentation](https://hexo.io/docs/) and [Volantis theme documentation](https://volantis.js.org/v7/getting-started/).
+   Deploy using *GitHub Pages* or *Cloudflare Workers / Pages*.
