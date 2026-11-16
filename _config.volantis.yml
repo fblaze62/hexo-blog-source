@@ -153,7 +153,7 @@ comments:
   # https://github.com/laymonage/giscus
   giscus:
     # 以下配置按照 yml 格式增删填写即可
-    repo: fblaze62/blog-comments
+    repo: fblaze62/hexo-blog-comments
     repo-id: R_kgDOSoMU4A
     category: Announcements
     category-id: DIC_kwDOSoMU4M4C93wD
