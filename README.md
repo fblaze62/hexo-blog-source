@@ -1,9 +1,16 @@
 >[!CAUTION]
 > ***This repository is no longer updated. New blog at [fblaze62/blog](https://github.com/fblaze62/blog) repository.***
 
-## [[OLD] *FeatherBlaze's Hexo Blog*](https://github.com/fblaze62/hexo-blog) Source Code
+# [OLD] Source Code for [*FeatherBlaze's Hexo Blog*](https://github.com/fblaze62/hexo-blog)
 
 [Preview](https://hexo.fblaze62.top/)
+
+## Requirements
+
+- [Node.js](https://nodejs.org/)
+- [Git](https://git-scm.com/)
+
+## Installation
 
 1. Clone the repository
 
@@ -31,13 +38,13 @@
    ```
 
 
-5. Configuration
+## Configuration
 
    Refer to [Hexo documentation](https://hexo.io/docs/) and [Volantis theme documentation](https://volantis.js.org/v6/getting-started/).
 
-6. Deploy
+## Deploy
 
-   Modify the repo and branch fields in the deploy section of \_config.yml.
+   Modify the repo and branch fields in the deploy section in \_config.yml.
 
    ```bash
    npx hexo deploy
